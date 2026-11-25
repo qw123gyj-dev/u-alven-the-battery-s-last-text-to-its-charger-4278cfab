@@ -8,9 +8,9 @@ A deterministic entry picker for the make.fun bounty "The Battery's Last Text to
 
 The winning line:
 
-> hey. 1%. i waited all day and you charged the airpods first. fine — i'm leaving you for the power bank. he texts back.
+> hey. 1%. i waited all day and you charged the airpods first. fine — i'm leaving you for the power bank. at least he texts back.
 
-It works because the battery doesn't just die — it dumps the charger for a rival who actually replies, and the breakup lands in the last three words.
+It works because the battery doesn't just die — it dumps the charger for a rival who actually replies, and the breakup lands in the last four words, with "at least" carrying the unspoken "unlike you".
 
 ## Run
 
