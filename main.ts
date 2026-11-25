@@ -84,8 +84,11 @@ type Candidate = {
 const CANDIDATES: Candidate[] = [
   {
     id: "power-bank-breakup",
-    text: "hey. 1%. i waited all day and you charged the airpods first. fine \u2014 i'm leaving you for the power bank. he texts back.",
-    punch: "he texts back",
+    text: "hey. 1%. i waited all day and you charged the airpods first. fine \u2014 i'm leaving you for the power bank. at least he texts back.",
+    // "at least" carries the unspoken "unlike you": the charger never texts
+    // back, the power bank does. Implication, not statement, is the joke —
+    // it sharpens the turn and the spite in the final four words.
+    punch: "at least he texts back",
     angle: "leaves-charger-for-power-bank",
     fresh: 5,
     cliches: [],
